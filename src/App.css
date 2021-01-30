@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  color: rgb(238, 195, 130);
+  background-color: rgb(128, 0, 85);
+  margin: 2rem;
+  margin-bottom: 5rem;
+  
+}
+
+#btn{
+  text-emphasis-color: red;
+  color: brown;
+  text-shadow: chartreuse;
+}
+
+.red{
+  color: red;
+}
+
+.bold{
+  font-weight: bolder;
+}
